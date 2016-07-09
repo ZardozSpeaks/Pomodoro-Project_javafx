@@ -1,6 +1,6 @@
 # _Pomodoro Timer_
 
-#### _a JavaFX app that helps users manage their breaks under the Pomodoro technique_
+#### _A JavaFX app that helps users manage their breaks under the Pomodoro technique_
 
 #### By _**David Remington**_
 
